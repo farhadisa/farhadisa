@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full stack developer
+*I am a passionate and open to learning full stack developer. I love to develop creative projects also team-oriented, problem-solving and creative person*
 
 
 # 💻 Tech Stack:
